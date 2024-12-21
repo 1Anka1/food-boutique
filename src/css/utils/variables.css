@@ -1,0 +1,9 @@
+:root {
+  --primary-font-family: 18px/1.5 'Regular Neue Montreal';
+  --medium-font-family: 20px/1.5 'Medium Neue Montreal', serif;
+  --primary-background-color: #e8e8e2;
+  --primary-color: #6d8434;
+  --white-color: #fafafa;
+  --dark-color: #010101;
+  --input-border-color: #a3a39e;
+}

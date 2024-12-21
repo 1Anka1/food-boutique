@@ -1,0 +1,31 @@
+<section>
+  <div class="container">
+    <h2 class="filters__title">Filters:</h2>
+    <div class="filter__search-container">
+      <div class="filter__input-wrapper">
+        <input
+          class="filter__input"
+          type="text"
+          placeholder="Search for anything"
+          aria-label="Search"
+        />
+        <svg class="filter__search-icon" width="20" height="20">
+          <use href="../public/sprite.svg#search"></use>
+        </svg>
+      </div>
+
+      <select class="filter__select-categories" aria-label="Categories">
+        <option value="" disabled="disabled" selected="selected">
+          Categories
+        </option>
+        <option value="#">One</option>
+        <option value="#">Two</option>
+        <option value="#">Three</option>
+      </select>
+
+      <select aria-label="Sort A to Z">
+        <option value="atoz">A to Z</option>
+      </select>
+    </div>
+  </div>
+</section>

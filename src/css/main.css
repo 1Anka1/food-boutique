@@ -1,0 +1,16 @@
+/* Common styles */
+@import url('./base/common.css');
+@import url('./base/container.css');
+
+/* Components  */
+@import url('./components/basket-btn.css');
+
+/* Utils  */
+@import url('./utils/variables.css');
+@import url('./utils/fonts.css');
+
+/* Sections style */
+@import url('./layout/header.css');
+@import url('./layout/footer.css');
+@import url('./layout/hero.css');
+@import url('./layout/filters.css');

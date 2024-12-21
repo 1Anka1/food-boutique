@@ -1,0 +1,13 @@
+.basket-btn {
+  align-items: center;
+  padding: 10px;
+  border: none;
+  border-radius: 50px;
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  margin-right: 25px;
+}
+
+.basket-btn-link {
+  display: flex;
+}
